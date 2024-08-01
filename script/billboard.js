@@ -37,7 +37,7 @@ module.exports.config = {
     role: 0,
     hasPrefix: true,
     credits: "John Lester",
-    description: "biliboard",
+    discription: "biliboard",
     commandCategory: "edit-img",
     usage: "[text]",
     cooldowns: 5,
